@@ -1,6 +1,6 @@
 name: PERFORMANCECAFFEINE
 favicon: null
-layout_spectrum: 0.2567353001795709
+layout_spectrum: 0.53888
 typography_spectrum: 0.31140329223126173
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.30876503023318946
+    - '#000000'
+    - '#ffffff'
+    - '#339acc'
+    - '#d1d0d2'
+    - '#1f607f'
+  brandStrength: 0.5
   lightness: 0.0874921556096524
   saturation: 0.5832418056670576
   rhythmicContrast: 0.5085027273744345
