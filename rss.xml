@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[PERFORMANCECAFFEINE]]></title>
         <description><![CDATA[PERFORMANCECAFFEINE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/performancecaffeine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 05:38:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 05:40:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/performancecaffeine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Caffeine to Increase Speed and Power]]></title>
+            <description><![CDATA[<article><h1>Caffeine to Increase Speed and Power</h1><p>The Human Biology and Nutritional Sciences department at University of Guelph, Ontario + Terry Graham This research was featured on the National Center for Biotechnology Information - Please Mix Responsibly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ec92932ffc977f66fa0d31607a5b0e0c813a66.jpg"></article>]]></description>
+            <link>http://www.pleasemixresponsibly.com/mixwithlife-source/2015/10/25/increase-speed-and-power</link>
+            <guid isPermaLink="false">0bc1c8eb-410d-4341-9d6e-15bd91410801</guid>
+            <pubDate>Tue, 19 Jan 2016 05:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Performance Benefits of Caffeine for Endurance Athletes]]></title>
-            <description><![CDATA[<article><h1>Performance Benefits of Caffeine for Endurance Athletes</h1><p>Caffeine studies have proven caffeine may increase the mobilization of fat stored in the body to use as a primary energy source, which means an athlete's body can save more glycogen to use as fuel for muscles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f7ebb511cbe20c22fe6c100c9ca69d41be6d73.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Performance Benefits of Caffeine for Endurance Athletes</h1><p>Caffeine studies have proven caffeine may increase the mobilization of fat stored in the body to use as a primary energy source, which means an athlete's body can save more glycogen to use as fuel for muscles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af051a2e32a951ea13ee5eb3344a7a1d905c286.jpg"></article>]]></description>
             <link>http://www.pleasemixresponsibly.com/mixwithlife-source/2015/9/22/performance-benefits-of-caffeine-for-endurance-athletes</link>
             <guid isPermaLink="false">c9e3dfa0-89e6-454e-a1ae-5673f30efeb2</guid>
             <pubDate>Tue, 19 Jan 2016 05:38:58 GMT</pubDate>
