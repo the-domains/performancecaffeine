@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PERFORMANCECAFFEINE]]></title>
+        <description><![CDATA[PERFORMANCECAFFEINE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jan 2016 05:38:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Performance Benefits of Caffeine for Endurance Athletes]]></title>
+            <description><![CDATA[<article><h1>Performance Benefits of Caffeine for Endurance Athletes</h1><p>Caffeine studies have proven caffeine may increase the mobilization of fat stored in the body to use as a primary energy source, which means an athlete's body can save more glycogen to use as fuel for muscles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f7ebb511cbe20c22fe6c100c9ca69d41be6d73.jpg"></article>]]></description>
+            <link>http://www.pleasemixresponsibly.com/mixwithlife-source/2015/9/22/performance-benefits-of-caffeine-for-endurance-athletes</link>
+            <guid isPermaLink="false">c9e3dfa0-89e6-454e-a1ae-5673f30efeb2</guid>
+            <pubDate>Tue, 19 Jan 2016 05:38:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
